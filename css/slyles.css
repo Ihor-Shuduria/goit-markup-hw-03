@@ -202,7 +202,7 @@ img {
 .objective{
     display: flex;
     width: calc((100%-72px) / 4);
-    padding: 120px 0;
+    padding: 120px 0 120px;
     gap: 24px;
 }
 
@@ -253,7 +253,6 @@ img {
     text-align: center;
     color: #2e2f42;
     text-align: center;
-    margin-bottom: 8px;
 }
 
 .box {
