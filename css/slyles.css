@@ -213,6 +213,7 @@ img {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
 }
 
 .section-title {
@@ -253,6 +254,7 @@ img {
     text-align: center;
     color: #2e2f42;
     text-align: center;
+    margin-bottom: 8px;
 }
 
 .box {
