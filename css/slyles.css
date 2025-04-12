@@ -199,11 +199,17 @@ img {
     overflow: hidden;
 }
 
+.container-two {
+    padding: 120px 0;
+}
+
 .objective{
     display: flex;
-    width: calc((100%-72px) / 4);
-    padding: 120px 0 120px;
     gap: 24px;
+}
+
+.objective-title {
+    width: calc((100%-72px) / 4);
 }
 
 .objective-list{
